@@ -33,8 +33,8 @@ The code for the paper's experiments (ClimaX, TimesFM, and FT-Transformer on UCI
 Clone the repository:
 
 ```bash
-git clone https://github.com/UQUH/stochastic-attention.git
-cd stochastic-attention
+git clone https://github.com/UQUH/StochasticAttention.git
+cd StochasticAttention
 ```
 
 Run the example and the tests:
